@@ -1,0 +1,15 @@
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\bin\Debug\net9.0\Prompts\rules.md
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\bin\Debug\net9.0\CopilotPicoGK.Engine.exe
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\bin\Debug\net9.0\CopilotPicoGK.Engine.deps.json
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\bin\Debug\net9.0\CopilotPicoGK.Engine.runtimeconfig.json
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\bin\Debug\net9.0\CopilotPicoGK.Engine.dll
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\bin\Debug\net9.0\CopilotPicoGK.Engine.pdb
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\CopilotPicoGK.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\CopilotPicoGK.Engine.AssemblyInfoInputs.cache
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\CopilotPicoGK.Engine.AssemblyInfo.cs
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\CopilotPicoGK.Engine.csproj.CoreCompileInputs.cache
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\CopilotPicoGK.Engine.dll
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\refint\CopilotPicoGK.Engine.dll
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\CopilotPicoGK.Engine.pdb
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\CopilotPicoGK.Engine.genruntimeconfig.cache
+C:\Users\Herault\documents\Copilot_PicoGK\v1\CopilotPicoGK.Engine\obj\Debug\net9.0\ref\CopilotPicoGK.Engine.dll

@@ -1,0 +1,9 @@
+Un turbo-réacteur RC : poussée 20–40 N, masse <500 g, longueur 200 mm, Ø extérieur 70 mm.
+Pièces :
+Carte principal : cylindre creux,  Ø70 mm, épaisseur 2 mm
+Diffuseur d'entrée d'air
+Compresseur centrifuge : roue Ø50 mm, 12 pales radiales droites
+Chambre de combustion annulaire : L45 mm, tubes intérieur + extérieur Inconel/inox réfractaire, 6 injecteurs circonférentiels, bougie en amont
+Turbine radiale : Ø45 mm, 11 ailettes, Inconel
+Arbre : Ø5 mm, 2 paliers à billes céramiques
+Tuyère : convergente, entrée Ø55 mm, sortie Ø35 mm

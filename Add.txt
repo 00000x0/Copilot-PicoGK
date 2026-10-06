@@ -1,0 +1,11 @@
+Chose à ajouter/améliorer : 
+- Quand "Le terminal a été fermé avant la fin du run" dire la raison et mettre un bouton pour ouvrir les logs.
+- Mettre un bouton aucun exemple.
+- Mettre la possibilité que l'IA réponde également un texte pour tableau, explications ou autres détails important de la pièce. On veut que ce texte soit très direct vers le sujet, qu'il fasse ce qu'on lui demande de faire, si on lui demande un tableau sur les force, il le fait et rien d'autre. La seule chose qu'il a le droit de mettre en plus c'est les calculs pour pouvoir vérifier ces raisonnements.
+    -Si elle répond en texte, l'utilisateur pourra choisir deux autres options : donner les spécifications techniques de fabrications / donner le dossier de définitions.
+- La clé API que l'on met dans l'onglet "IA & quotas" dans le sous-onglet "Autre API" n'est pour l'insatnt pas enregistrée quand on quitte le .py donc, mettre un bouton "Enregistrer" à côté de la zone de texte pour qu'elle se rouvre au prochain démarrage du .py
+(- Dans l'historique mettre un moyen d'ouvrir les pièces qui ont étés faite.)
+- Mettre un onglet "Exporter" pour pouvoir exporter une des pièces présente dans l'historique en .stl / .step / .igs / .obg / .sldprt / .sldasm / . slddrw
+
+
+
